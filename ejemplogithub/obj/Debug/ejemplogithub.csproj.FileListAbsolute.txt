@@ -1,0 +1,7 @@
+C:\Users\Daniel\source\repos\ejemplogithub\ejemplogithub\bin\Debug\ejemplogithub.exe.config
+C:\Users\Daniel\source\repos\ejemplogithub\ejemplogithub\bin\Debug\ejemplogithub.exe
+C:\Users\Daniel\source\repos\ejemplogithub\ejemplogithub\bin\Debug\ejemplogithub.pdb
+C:\Users\Daniel\source\repos\ejemplogithub\ejemplogithub\obj\Debug\ejemplogithub.csproj.AssemblyReference.cache
+C:\Users\Daniel\source\repos\ejemplogithub\ejemplogithub\obj\Debug\ejemplogithub.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\ejemplogithub\ejemplogithub\obj\Debug\ejemplogithub.exe
+C:\Users\Daniel\source\repos\ejemplogithub\ejemplogithub\obj\Debug\ejemplogithub.pdb
